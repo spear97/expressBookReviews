@@ -39,4 +39,4 @@ Brief description of your project.
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License License - see the [LICENSE.md](LICENSE.md) file for details.
