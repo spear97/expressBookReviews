@@ -39,4 +39,4 @@ Brief description of your project.
 
 ## License
 
-This project is licensed under the Apache License License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License License - see the [LICENSE.md](https://github.com/spear97/expressBookReviews/blob/main/README.md) file for details.
