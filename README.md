@@ -1,6 +1,6 @@
-# Project Name
+# expressBookReviews
 
-Brief description of your project.
+expressBookReviews is a project focused on managing book reviews through RESTful API endpoints, allowing users to register, log in, add reviews, and retrieve book information based on ISBN, author, or title.
 
 ## Table of Contents
 
